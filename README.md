@@ -51,4 +51,4 @@
 📫 **Let’s connect!**  
 💼 LinkedIn: [linkedin.com/in/humberto17](https://linkedin.com/in/humberto17)  
 
-🌐 Portfolio: [bertosec.wordpress.com](https://bertosec.wordpress.com)
+🌐 Blog: [bertosec.wordpress.com](https://bertosec.wordpress.com)
