@@ -18,9 +18,9 @@
 
 ## 📂 Featured Projects
 
-🔹 [Cybersecurity Portfolio Repo](https://github.com/Selipe7/Cybersecurity-Portfolio)  
+🔹 [Cybersecurity Portfolio Repo](https://github.com/Selipe7/Cyber-Portfolio)  
 🔹 [WordPress Blog](https://bertosec.wordpress.com)  
-🔹 [TryHackMe CTF Writeups](https://github.com/Selipe7/Cybersecurity-Portfolio/tree/main/CTF-Solutions)
+🔹 [TryHackMe CTF Writeups](https://github.com/Selipe7/Cyber-Portfolio/tree/main/CTF-Solutions)
 
 ---
 
