@@ -1,11 +1,11 @@
 ## 👋 Hi, I’m Humberto Rodriguez
 
-🎓 Cybersecurity undergrad @ Metro State | ☁️ Cloud explorer | 💻 Blue Team operator in training  
-🛠️ I build projects that prove I already think like an analyst.
+🎓 Cybersecurity undergrad @ Metro State | IT Endpoint Technician @ Metro State University | ☁️ Cloud explorer | 💻 Blue Team operator in training  
+🛠️ I build projects that prove I already think like an analyst and some fun things as well.
 
 ---
 
-## 🧰 My Cybersecurity Toolbox
+## 🧰 My Cybersecurity / IT Toolbox
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=windows&logoColor=white)
@@ -44,7 +44,7 @@
 ---
 
 > 🧠 “Don’t just show your certs. Show your thinking.”  
-> — That’s what this portfolio is all about.
+> — That’s what this portfolio is all about!
 
 ---
 
