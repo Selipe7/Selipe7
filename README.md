@@ -66,28 +66,18 @@
 
 ## 📜 Certifications
 
-### ✅ Completed & Active
-![ITF+](https://img.shields.io/badge/CompTIA-ITF%2B-FF6F00?style=flat&logo=comptia&logoColor=white)](https://cp.certmetrics.com/comptia/en/public/verify/credential/SDNZP8NNTPRQ1KGQ)
-![Cloud Essentials+](https://img.shields.io/badge/CompTIA-Cloud_Essentials%2B-80C9FF?style=flat&logo=comptia&logoColor=white)
-![Security+](https://img.shields.io/badge/CompTIA-Security%2B-E21836?style=flat&logo=comptia&logoColor=white)
-![CySA+](https://img.shields.io/badge/CompTIA-CySA%2B-003399?style=flat&logo=comptia&logoColor=white)
-![ISC2 CC](https://img.shields.io/badge/ISC2-Certified_in_Cybersecurity-00A5E0?style=flat&logo=ISC2&logoColor=white)
-![MITx](https://img.shields.io/badge/MITx-Cybersecurity_for_Critical_Urban_Infrastructure-A31F34?style=flat&logo=mit&logoColor=white)
-
-## 📜 Certifications
-
 [![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?style=for-the-badge&logo=comptia&logoColor=white)](https://cp.certmetrics.com/comptia/en/public/verify/credential/RHCCND5ZMFV41V9D)
 
 [![CompTIA CySA+](https://img.shields.io/badge/CompTIA-CySA%2B-blue?style=for-the-badge&logo=comptia&logoColor=white)](https://cp.certmetrics.com/comptia/en/public/verify/credential/RYKB8NDY4BVQSMG2)
 
-[![ISC2 Certified in Cybersecurity](https://img.shields.io/badge/ISC2-Certified%20in%20Cybersecurity-green?style=for-the-badge)](https://www.credly.com/badges/YOURBADGELINK)
+[![ISC2 Certified in Cybersecurity](https://img.shields.io/badge/ISC2-Certified%20in%20Cybersecurity-green?style=for-the-badge)](https://www.credly.com/earner/earned/badge/98bd74cd-3427-4aef-a388-999b5cceb6b3)
 
 [![CompTIA Cloud Essentials+](https://img.shields.io/badge/CompTIA-Cloud%20Essentials%2B-lightgrey?style=for-the-badge)](https://cp.certmetrics.com/comptia/en/public/verify/credential/6RSG17HQ9NEQQHKJ)
 
 ## 🚧 In Progress (Target: 2026)
 
 - Cisco CCNA (Cisco Certified Network Associate)
-- ISC2 SSCP (Security Systems Certified Practitioner)
+- ISC2 SSCP (Systems Security Certified Practitioner)
 - Microsoft AZ-900
 - Microsoft AI-900
 - AWS Cloud Practitioner
