@@ -1,11 +1,25 @@
 ## 👋 Hi, I’m Humberto Rodriguez
 
-🎓 Cyber Operations graduate student @ Metro State University | IT Support Specialist | ☁️ Cloud explorer | 💻 Blue Team operator in training  
-🛠️ I build projects that show I already think like an analyst and some other fun things as well :)
+🎓 Cyber Operations Graduate Student @ Metro State University  
+🛡 Security+ & CySA+ Certified | IT Support Specialist  
+🔍 Blue Team–focused analyst building detection, vulnerability management, and incident response projects
+
+I build practical, analyst-driven projects that demonstrate real-world defensive security thinking.
+As well as some things I find interesting.
+
+## 🚀 Currently Working On
+
+- CCNA (Target: December 2026)
+- SSCP (Target: October 2026)
+- Expanding SIEM detection engineering projects
+- Building Blue Team lab environments
+- Building networking lab projects to demonstrate understanding and technical know-how
 
 ---
 
 ## 🧰 My Cybersecurity / IT Toolbox
+
+Hands-on experience across enterprise IT, networking, cloud, and defensive security tooling.
 
 ### 🔹 Programming & Scripting
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -14,14 +28,12 @@
 
 ### 🔹 Cloud & Platforms
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ### 🔹 Networking
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco-Packet_Tracer-1BA0D7?style=flat&logo=cisco&logoColor=white)
 ![GNS3](https://img.shields.io/badge/GNS3-Network_Simulator-323330?style=flat&logo=gns3&logoColor=white)
-![OPNsense](https://img.shields.io/badge/OPNsense-F58025?style=flat&logo=openbsd&logoColor=white)
 ![pfSense](https://img.shields.io/badge/pfSense-212C42?style=flat&logo=freebsd&logoColor=white)
 
 ### 🔹 Cybersecurity Tools
@@ -30,10 +42,7 @@
 ![Metasploit](https://img.shields.io/badge/Metasploit-ED1C24?style=flat&logo=metasploit&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-Network_Scanner-4682B4?style=flat&logo=gnometerminal&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burpsuite&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-SIEM-000000?style=flat&logo=splunk&logoColor=white)
-![ELK Stack](https://img.shields.io/badge/ELK-Stack-005571?style=flat&logo=elasticstack&logoColor=white)
 ![Security Onion](https://img.shields.io/badge/Security_Onion-Network_Monitoring-6DB33F?style=flat&logo=ubuntu&logoColor=white)
-![Zeek](https://img.shields.io/badge/Zeek-IDS-231F20?style=flat&logo=zeek&logoColor=white)
 ![Snort](https://img.shields.io/badge/Snort-IDS/IPS-FE2C55?style=flat&logo=snort&logoColor=white)
 ![Volatility](https://img.shields.io/badge/Volatility-Memory_Forensics-FFCC00?style=flat&logo=ghostery&logoColor=black)
 ![Autopsy](https://img.shields.io/badge/Autopsy-Forensics-003366?style=flat&logo=magisk&logoColor=white)
@@ -52,7 +61,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
-
 
 ---
 
