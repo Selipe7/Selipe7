@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m Humberto Rodriguez
 
-🎓 Cyber Operations graduate student @ Metro State University | IT Endpoint Technician @ Metro State University | ☁️ Cloud explorer | 💻 Blue Team operator in training  
-🛠️ I build projects that prove I already think like an analyst and some fun things as well :)
+🎓 Cyber Operations graduate student @ Metro State University | IT Support Specialist | ☁️ Cloud explorer | 💻 Blue Team operator in training  
+🛠️ I build projects that show I already think like an analyst and some other fun things as well :)
 
 ---
 
@@ -98,7 +98,7 @@
 ---
 
 > 🧠 “Don’t just show your certs. Show your thinking.”  
-> — That’s what this portfolio is all about!
+> — That’s what my portfolio is all about!
 
 ---
 
