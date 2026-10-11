@@ -10,7 +10,6 @@ As well as some things I find interesting.
 ## 🚀 Currently Working On
 
 - CCNA (Target: December 2026)
-- SSCP (Target: October 2026)
 - Expanding SIEM detection engineering projects
 - Building Blue Team lab environments
 - Building networking lab projects to demonstrate understanding and technical know-how
@@ -85,7 +84,6 @@ Hands-on experience across enterprise IT, networking, cloud, and defensive secur
 ## 🚧 In Progress (Target: 2026)
 
 - Cisco CCNA (Cisco Certified Network Associate)
-- ISC2 SSCP (Systems Security Certified Practitioner)
 - Microsoft AZ-900
 - Microsoft AI-900
 - AWS Cloud Practitioner
@@ -106,7 +104,7 @@ Hands-on experience across enterprise IT, networking, cloud, and defensive secur
 ---
 
 > 🧠 “Don’t just show your certs. Show your thinking.”  
-> — That’s what my portfolio is all about!
+> — That’s what my portfolio is all about! :-)
 
 ---
 
