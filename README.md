@@ -63,13 +63,6 @@ Hands-on experience across enterprise IT, networking, cloud, and defensive secur
 
 ---
 
-## 📂 Featured Projects
-
-🔹 [Cybersecurity Portfolio Repo](https://github.com/Selipe7/Cyber-Portfolio)  
-🔹 [WordPress Blog](https://bertosec.wordpress.com)  
-🔹 [TryHackMe CTF Writeups](https://github.com/Selipe7/Cyber-Portfolio/tree/main/CTF-Solutions)
-
----
 
 ## 📜 Certifications
 
