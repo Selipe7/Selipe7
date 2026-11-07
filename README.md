@@ -1,6 +1,6 @@
-## 👋 Hi, I’m Humberto Rodriguez
+## 👋 Hi, 
 
-🎓 Cyber Operations Graduate Student @ Metro State University  
+🎓 Cyber Operations Graduate Student @  
 🛡 Security+ & CySA+ Certified | IT Support Specialist  
 🔍 Blue Team–focused analyst building detection, vulnerability management, and incident response projects
 
@@ -91,15 +91,7 @@ Hands-on experience across enterprise IT, networking, cloud, and defensive secur
 
 ---
 
-## 📊 GitHub Stats
 
-![Humberto's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Selipe7&show_icons=true&theme=github_dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Selipe7&layout=compact&theme=github_dark)
-
-![Humberto's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Selipe7&theme=github-dark&hide_border=true)
-
-![Profile Views](https://komarev.com/ghpvc/?username=Selipe7&color=blue&style=flat)
 
 ---
 
@@ -108,8 +100,4 @@ Hands-on experience across enterprise IT, networking, cloud, and defensive secur
 
 ---
 
-📫 **Let’s connect!**  
 
-💼 LinkedIn: [linkedin.com/in/humberto17](https://linkedin.com/in/humberto17)  
-
-🌐 Blog: [bertosec.wordpress.com](https://bertosec.wordpress.com)
